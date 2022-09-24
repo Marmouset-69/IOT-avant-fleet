@@ -73,7 +73,7 @@ switch:
 ```
 Select **Manual download**
 
-<img src="images/2022-09-24_16-31-14.png" width="400"/>
+<img src="Images/2022-09-24_16-31-14.png" width="400"/>
 
 <img src="Images/2022-09-24_16-34-35-mlttu.png" width="500"/>
 
