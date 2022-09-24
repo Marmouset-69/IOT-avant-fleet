@@ -79,5 +79,17 @@ Select **Manual download**
 
 <img src="Images/2022-09-24_16-38-16-yfosd.png" width="500"/>
 
-<div style="background:gold; border: 1px black;">uyouy</div>
+> WARNING: 
+If the ESP is not visible on the serial port, it may be due to the cable, you must try another one
 
+<img src="Images/IMG_3976.JPG" width="200"/>
+
+>WARNING: If an error appears, it means that the ESP is not in "write" mode. You must then press the "IO0" button THEN connect the ESP and flash it. 
+
+<img src="Images/IMG_3975.jpg" width="300"/>
+
+<img src="Images/2022-09-24_17-16-04-wshpx.png" width="500"/>
+
+>Disconnect then reconnect the ESP
+
+<img src="Images/2022-09-24_17-18-33-076n7.png" width="300"/>
