@@ -93,17 +93,17 @@ If the ESP is not visible on the serial port, it may be due to the cable, you mu
 >Disconnect then reconnect the ESP
 
 <img src="Images/2022-09-24_17-18-33-076n7.png" width="300"/>
-
+----
 <img src="Images/2022-09-24_17-21-33-46yb4.png" width="200"/>
-
+----
 <img src="Images/2022-09-24_17-21-41-m2uyz.png" width="300"/>
-
+----
 <img src="Images/2022-09-24_17-21-51-oyfpp.png" width="300"/>
-
+----
 <img src="Images/2022-09-24_17-22-04-kssti.png" width="300"/>
-
+----
 <img src="Images/2022-09-24_17-22-14-me3k0.png" width="300"/>
-
+----
 <img src="Images/2022-09-24_17-22-40-a70lt.png" width="300"/>
-
+----
 <img src="Images/2022-09-24_17-24-21-2psnt.png" width="300"/>
