@@ -1,3 +1,0 @@
-# Integration ESPhome
-
-## Remove
