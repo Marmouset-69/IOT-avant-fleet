@@ -44,9 +44,9 @@ sensor:
     update_interval: 600s
 ```
 
-<img src="Images/2022-10-09_09-47-21-xd5ut.png" width="400"/>
+<img src="Images/2022-10-09_09-47-21-xd5ut.png" width="450"/>
 
-<img src="Images/2022-10-09_09-47-30-g6m3z.png" width="400"/>
+<img src="Images/2022-10-09_09-47-30-g6m3z.png" width="300"/>
 
 <img src="Images/2022-10-09_09-47-50-sji1a.png" width="500"/>
 
